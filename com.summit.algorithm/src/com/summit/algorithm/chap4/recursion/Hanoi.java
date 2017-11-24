@@ -1,4 +1,4 @@
-package chap4.recursion;
+package com.summit.algorithm.chap4.recursion;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package chap5.heapsort;
+package com.summit.algorithm.chap5.heapsort;
 
 public class Main {
 	public static void main(String[] args) {
